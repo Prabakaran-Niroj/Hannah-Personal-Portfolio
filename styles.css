@@ -10,12 +10,12 @@
 body {
   background-color: rgb(6, 7, 12);
   font-family: inter;
-  background-image: url(background-img.png);
+  background-image: url(niroj.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
   height: 100vh;
-  padding: 0 10%;
+  padding: 0 12%;
 }
 
 /* Header */
